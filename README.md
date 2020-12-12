@@ -7,8 +7,8 @@
 </div>
 
 <div align="center">
-    <img src="../assets/404-desktop.png" alt="Scare crow">
-    <img src="../assets/404-mobile.png" alt="Scare crow">
+    <img src="../assets/screenshots.png" alt="Desktop and Mobile view">
+    
   <h3>
     <a href="https://carlo4123.github.io/404-not-found/"> <!-- palitan mo to  -->
       Demo
