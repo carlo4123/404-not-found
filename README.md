@@ -9,7 +9,7 @@
 <div align="center">
   <h3>
     <a href="link demo"> <!-- palitan mo to  -->
-      Demo
+       <img src="../assets/404-desktop.png" alt="Scare crow">
     </a>
     <span> | </span>
     <a href="link github repo"> <!-- palitan mo to  -->
