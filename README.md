@@ -7,9 +7,11 @@
 </div>
 
 <div align="center">
+    <img src="../assets/404-desktop.png" alt="Scare crow">
+    <img src="../assets/404-mobile.png" alt="Scare crow">
   <h3>
     <a href="link demo"> <!-- palitan mo to  -->
-       <img src="../assets/404-desktop.png" alt="Scare crow">
+      Demo
     </a>
     <span> | </span>
     <a href="link github repo"> <!-- palitan mo to  -->
