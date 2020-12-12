@@ -10,11 +10,11 @@
     <img src="../assets/404-desktop.png" alt="Scare crow">
     <img src="../assets/404-mobile.png" alt="Scare crow">
   <h3>
-    <a href="link demo"> <!-- palitan mo to  -->
+    <a href="https://carlo4123.github.io/404-not-found/"> <!-- palitan mo to  -->
       Demo
     </a>
     <span> | </span>
-    <a href="link github repo"> <!-- palitan mo to  -->
+    <a href="https://github.com/carlo4123/404-not-found"> <!-- palitan mo to  -->
       Solution
     </a>
     <span> | </span>
