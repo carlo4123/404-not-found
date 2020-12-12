@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-    <img src="../assets/screenshots.png" alt="Desktop and Mobile view">
+  
     
   <h3>
     <a href="https://carlo4123.github.io/404-not-found/"> <!-- palitan mo to  -->
@@ -36,8 +36,9 @@
 
 ## Overview
 
-![screenshot](link ng screenshot)  <!-- palitan mo to  -->
+![screenshot](link ng screenshot)  
 
+  <img src="../assets/screenshots.png" alt="Desktop and Mobile view">
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
